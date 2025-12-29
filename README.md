@@ -75,13 +75,17 @@ jupyter notebook
 ```
 4.Run all cells in movie_recommendation.ipynb
 
-✅Output:
+
+## ✅Output:
 The system outputs a list of recommended movies similar to the selected movie based on calculated similarity scores.
 
- 🎓Academic Purpose:
+
+ ## 🎓Academic Purpose:
 This project is intended for educational use and demonstrates the application of data analysis and machine learning concepts in building recommendation systems.
 
-#Future Enhancements:
+
+## Future Enhancements:
+
 Implement collaborative filtering
 
 Improve recommendation accuracy
